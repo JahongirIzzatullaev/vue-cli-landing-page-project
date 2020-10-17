@@ -13,7 +13,6 @@ import Loader from "./components/Loader"
 import Navbar from "@/views/Navbar";
 import Main from "@/views/Main"
 // import BackImg from "@/assets/images/bg-img.jpg"
-
 export default {
   components: {
     'loading-screen': Loader, Navbar, Main
