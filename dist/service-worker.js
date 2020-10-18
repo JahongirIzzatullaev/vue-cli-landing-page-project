@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-cli-project/precache-manifest.64770eb567ab33d09f549403182a02db.js"
+  "/vue-cli-project/precache-manifest.55cae6aeef9ccece4e1276df44535662.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-cli-animation-project"});
