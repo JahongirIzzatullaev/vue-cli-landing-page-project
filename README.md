@@ -1,5 +1,7 @@
 # vue-cli-animation-project
 
+1[Project url] (https://jahongirizzatullaev.github.io/vue-cli-project/)
+
 ## Project setup
 ```
 npm install
