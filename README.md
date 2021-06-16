@@ -1,6 +1,6 @@
 # vue-cli-animation-project
 
-[Project url IAM](https://jahongirizzatullaev.github.io/vue-cli-project/).
+[Demo (Project url IAM)](https://jahongirizzatullaev.github.io/vue-cli-project/).
 
 ## Project setup
 ```
